@@ -111,3 +111,23 @@ a{
     width: 150px;
     font-size: 15px;
 }
+.quote-section{
+    background-color: #E5E7EB;
+    height: 300px;
+    padding: 0 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+.quote-text{
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1F2937;
+}
+.quote-credit{
+    text-align: right;
+    font-size: 20px;
+    font-weight: 900;
+}
