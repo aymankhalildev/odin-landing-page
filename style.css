@@ -131,3 +131,42 @@ a{
     font-size: 20px;
     font-weight: 900;
 }
+.call-to-action{
+    height: 100px;
+    padding: 100px 200px;
+}
+.cta-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882f6;
+    gap: 100px;
+    height: 100px;
+    border-radius: 10px;
+}
+.cta-box h3{
+    color: #F9FAF8;
+}
+.cta-box p{
+    color: #F9FAF8;
+}
+.cta-btn button{
+    padding: 5px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    color: #F9FAF8;
+    background-color: #3882f6;
+    border-color: #F9FAF8;
+}
+.footer{
+    height: 50px;
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer p{
+    color: #F9FAF8;
+    text-align: center;
+}
