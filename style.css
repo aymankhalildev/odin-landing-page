@@ -31,7 +31,7 @@ color: #E5E7EB;
 .header h1{
     color: #f9faf8;
     font-size: 48px;
-    font-weight: 900;
+    font-weight: 9footoer00;
 
 }
 .header-image{
@@ -151,5 +151,15 @@ font-weight: 900;
     padding: 2 10px;
     font-size: 14px;
     align-self: center;
+}
+.footer{
+    background-color:#1f2937;
+    height: 100px;   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-text{
+    color: white;
 }
 
